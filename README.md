@@ -42,17 +42,6 @@ My strongest capability is **understanding a business or engineering problem end
 
 ---
 
-### 🚀 Featured Repositories
-
-- 🤖 **[ai-labs](https://github.com/bharatprajapat-eng/ai-labs)** — Custom developer guidelines and automated skills designed for AI coding agents. Features the **AI-Augmented Trunk-Flow** branching model and multi-agent cross-platform installers.
-- 🧠 **[AI-models](https://github.com/bharatprajapat-eng/AI-models)** — PyTorch deep learning text generation pipeline containerized with Docker, REST API inference server, and interactive web UI.
-- ⚡ **[bytechef](https://github.com/bharatprajapat-eng/bytechef)** — Open-source, low-code, extendable API integration and workflow automation platform.
-- ☁️ **[tf-test](https://github.com/bharatprajapat-eng/tf-test)** — Declarative Terraform Infrastructure as Code modules, remote state management, and cloud automation test harness.
-- 📐 **[angular-formio](https://github.com/bharatprajapat-eng/angular-formio)** — Dynamic JSON-powered form generator and validation engine for Angular applications.
-- 🌐 **[bharatprajapat-eng.github.io](https://github.com/bharatprajapat-eng/bharatprajapat-eng.github.io)** — Source code for my personal portfolio website, architecture hub, and interactive developer CLI.
-
----
-
 ### 🏆 Selected Architectural Case Studies
 
 Detailed case studies with real architectural problems, strategies, and outcomes are documented on my website:
@@ -65,6 +54,12 @@ Detailed case studies with real architectural problems, strategies, and outcomes
 6. **Distributed Tracing & SRE Root-Cause Isolation** — OpenTelemetry Operator and Jaeger traces isolating downstream microservice query latency.
 
 👉 *Read the complete deep dives at [https://bharatprajapat-eng.github.io/#case-studies](https://bharatprajapat-eng.github.io/#case-studies)*
+
+---
+
+### 🚀 Public Repositories
+
+- 🌐 **[bharatprajapat-eng.github.io](https://github.com/bharatprajapat-eng/bharatprajapat-eng.github.io)** — Source code for my personal portfolio website, architecture showcase, and interactive developer console.
 
 ---
 
