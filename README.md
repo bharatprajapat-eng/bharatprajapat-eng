@@ -1,75 +1,126 @@
-# Hi there, I'm Bharat Prajapat 👋
-
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-bharatprajapat--eng.github.io-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bharatprajapat-eng.github.io/)
-[![Email](https://img.shields.io/badge/Email-bharat.p2311%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharat.p2311@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-bharatprajapat--eng-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharatprajapat-eng)
-[![Location](https://img.shields.io/badge/Location-India-10b981?style=for-the-badge&logo=google-maps&logoColor=white)](https://bharatprajapat-eng.github.io/)
+# bharatprajapat-eng — all systems operational
 
-**Cloud, DevOps & Platform Engineer • Solution Architect • AI-Assisted Infrastructure Automation**  
-*Former Full-Stack Developer • 9+ Years of Hands-on Engineering Evolution*
+<img src="https://img.shields.io/badge/status-operational-22C55E?style=for-the-badge&labelColor=0a0d12" alt="Status Operational" />
+
+**Cloud, DevOps &amp; Platform Engineer • Solution Architect** · India  
+*Multi-cloud platforms, Kubernetes orchestration, and AI-assisted infrastructure automation.*
+
+<p>
+<img src="https://img.shields.io/badge/Multi--Cloud-22C55E?style=for-the-badge&logoColor=white&labelColor=0a0d12" alt="Multi-Cloud" />
+<img src="https://img.shields.io/badge/Kubernetes-22C55E?style=for-the-badge&logoColor=white&labelColor=0a0d12" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/GitOps-22C55E?style=for-the-badge&logoColor=white&labelColor=0a0d12" alt="GitOps" />
+<img src="https://img.shields.io/badge/Terraform-22C55E?style=for-the-badge&logoColor=white&labelColor=0a0d12" alt="Terraform" />
+<img src="https://img.shields.io/badge/AI--DevOps-22C55E?style=for-the-badge&logoColor=white&labelColor=0a0d12" alt="AI-DevOps" />
+</p>
+
+<p>
+<a href="https://bharatprajapat-eng.github.io/"><img src="https://img.shields.io/badge/Website-0a0d12?style=for-the-badge&logo=googlechrome&logoColor=22C55E" alt="Portfolio" /></a>
+<a href="https://bharatprajapat-eng.github.io/case-studies.html"><img src="https://img.shields.io/badge/Case_Studies-0a0d12?style=for-the-badge&logo=gitbook&logoColor=38bdf8" alt="Case Studies" /></a>
+<a href="mailto:bharat.p2311@gmail.com"><img src="https://img.shields.io/badge/Email-0a0d12?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://github.com/bharatprajapat-eng"><img src="https://img.shields.io/badge/GitHub-0a0d12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 </div>
 
----
+<br>
 
-### 👨‍💻 About Me
+## System Status
 
-I am a multidisciplinary engineer whose career began in full-stack software development and evolved through website hosting, mobile applications, cloud infrastructure, Kubernetes operations, platform engineering, and AI-assisted automation. 
+| Component | Status | Description |
+|:---|:---:|:---|
+| Multi-Cloud Infrastructure (Azure · GCP · AWS) | ![Operational](https://img.shields.io/badge/Operational-22C55E?style=flat-square&labelColor=0a0d12) | Cross-cloud VPCs, private links &amp; Workload Identity |
+| Kubernetes &amp; Container Orchestration | ![Operational](https://img.shields.io/badge/Operational-22C55E?style=flat-square&labelColor=0a0d12) | AKS, GKE, EKS, on-premises VMware vSphere &amp; KEDA |
+| CI/CD &amp; GitOps Platforms | ![Operational](https://img.shields.io/badge/Operational-22C55E?style=flat-square&labelColor=0a0d12) | Argo CD, Universal CI/CD scaling across 500+ services |
+| AI-Assisted DevOps Automation | ![Operational](https://img.shields.io/badge/Operational-22C55E?style=flat-square&labelColor=0a0d12) | Specialized agents, deterministic gates &amp; Slack review |
+| Observability &amp; SRE Tracing | ![Operational](https://img.shields.io/badge/Operational-22C55E?style=flat-square&labelColor=0a0d12) | OpenTelemetry Operator, Jaeger, Datadog &amp; ELK |
+| Engineering Curiosity | ![Permanent](https://img.shields.io/badge/100%25-22C55E?style=flat-square&labelColor=0a0d12) | Deconstructing systems, optimizing data paths &amp; cost |
 
-My strongest capability is **understanding a business or engineering problem end to end, designing a practical technical architecture, establishing a working implementation, and standardizing it for team-scale adoption**.
+<br>
 
-- 🔭 **Current Focus:** Enterprise platform modernization across Microsoft Azure and Google Cloud (GKE, AlloyDB, Workload Identity), Universal CI/CD (500+ services), GitOps with Argo CD & Helm, and AI-driven DevOps automation.
-- 🏗️ **Architecture Philosophy:** Make the product work reliably, make the engineering process repeatable, and control operating costs as the system scales.
-- 🤖 **AI with Guardrails:** Building specialized AI agent workflows (Zendesk &rarr; Augment Cosmos &rarr; GitHub PRs &rarr; Slack approvals) with deterministic checks and human-in-the-loop validation.
-- 🌐 **Portfolio & Case Studies:** Check out my deep-dive architecture case studies and live interactive console at **[bharatprajapat-eng.github.io](https://bharatprajapat-eng.github.io/)**.
+## Currently deployed
 
----
+```yaml
+engineer: Bharat Prajapat
+role: Cloud, DevOps & Platform Engineer / Solution Architect
+location: India (Open to Remote & Global Opportunities)
+stack: Multi-Cloud (Azure, GCP, AWS) · Kubernetes · Terraform · GitOps
+mission:
+  - modernize enterprise multi-cloud platforms across Azure & GCP
+  - maintain universal CI/CD pipelines across 500+ microservices & microfrontends
+  - operate production Kubernetes (AKS, GKE, on-prem) with zero-trust Workload Identity
+  - design AI-driven DevOps support agents with deterministic guardrails & human approval
+```
 
-### 🛠️ Technical Arsenal
+<br>
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Cloud & Hybrid** | Microsoft Azure, Google Cloud (GCP), AWS, Cloudflare (Workers/KV/Tunnels), VMware vSphere |
-| **Containers & K8s** | Kubernetes, Azure AKS, Google GKE, AWS EKS, Docker, KEDA, Pod Disruption Budgets (PDB) |
-| **IaC & GitOps** | Terraform (Reusable Modules & Foundations), Argo CD, Helm Charts, ARM Templates |
-| **CI/CD & Security** | GitHub Actions, Azure DevOps Pipelines, Workload Identity Federation, Azure Key Vault, OIDC |
-| **AI & Automation** | Coding Agents (Cursor, Claude Code, Antigravity), Augment Cosmos, CrewAI, Azure OpenAI Platform |
-| **Observability & SRE** | Datadog, OpenTelemetry Operator, Jaeger Distributed Tracing, Elasticsearch & Kibana (ELK) |
-| **Databases & Data** | PostgreSQL, Google Cloud AlloyDB, Google Cloud DMS, Confluent Kafka, Apache Airflow, MongoDB |
-| **Software & Web** | Python (FastAPI, Flask), PHP/Laravel, Angular, TypeScript/JavaScript, C/C++, REST APIs |
+## Incident & Architecture History (All Resolved)
 
----
+**#021 — 500+ Microservices flooded DevOps with manual pipeline requests**  
+Designed a parameterized Universal CI/CD template paired with Augment Cosmos AI agents (Zendesk &rarr; repository context &rarr; GitHub PRs &rarr; Slack sign-off).  
+*Root cause:* Fragmented CI/CD setups. *Outcome:* Automated PR generation with human team review. `Status: resolved`
 
-### 🏆 Selected Architectural Case Studies
+**#018 — Enterprise migration from Azure to GCP needed zero-downtime replication**  
+Architected continuous migration from Azure PostgreSQL to Google Cloud AlloyDB using Google Cloud DMS over a private cross-cloud VPN with GKE Workload Identity Federation (eliminating static JSON keys).  
+*Root cause:* Database cutover risk &amp; credential sprawl. *Outcome:* Continuous live sync &amp; keyless authentication. `Status: resolved`
 
-Detailed case studies with real architectural problems, strategies, and outcomes are documented on my website:
+**#014 — Millions of consent banner events overwhelmed backend database I/O**  
+Engineered an edge-ingestion layer using Cloudflare Workers &amp; Cloudflare KV to buffer incoming consent clicks and offload processing to scheduled Kubernetes batch workers.  
+*Root cause:* Synchronous database writes per page hit. *Outcome:* Removed API pressure from application DB. `Status: resolved`
 
-1. **Universal CI/CD at Enterprise Scale (500+ Services)** — Centralized parameterized templates paired with AI-driven PR generation and Slack team approvals.
-2. **Enterprise Azure-to-GCP Platform Modernization** — AKS to GKE, Workload Identity Federation (zero static keys), and PostgreSQL to AlloyDB continuous replication via Google Cloud DMS.
-3. **High-Throughput Edge Ingestion for Compliance SaaS** — Cloudflare Workers & KV buffering millions of consent interactions, relieving database I/O bottlenecks.
-4. **Monolith Decomposition into Kubernetes Microservices** — Decomposed e-commerce transactional workloads (orders, cart, checkout) from catalog search.
-5. **AI-Assisted 500+ NGINX Ingress to Kubernetes Gateway API** — Automated parsing and candidate HTTPRoute manifest generation with semantic linting.
-6. **Distributed Tracing & SRE Root-Cause Isolation** — OpenTelemetry Operator and Jaeger traces isolating downstream microservice query latency.
+**#009 — Monolithic commerce backend suffered checkout latency during traffic surges**  
+Decomposed monolithic Laravel backend into isolated Kubernetes microservices (Cart, Orders, Invoicing, Payments) with Horizontal Pod Autoscaling and Elasticsearch catalog search.  
+*Root cause:* Transactional operations sharing compute with browsing. *Outcome:* Isolated critical transaction paths. `Status: resolved`
 
-👉 *Read the complete deep dives at [https://bharatprajapat-eng.github.io/case-studies.html](https://bharatprajapat-eng.github.io/case-studies.html)*
+**#005 — Booking API exhibited erratic latency despite normal CPU/Memory metrics**  
+Deployed OpenTelemetry Operator and Jaeger distributed tracing on Kubernetes; correlated traces with Datadog alerts to isolate an unindexed query in an asynchronous downstream dependency.  
+*Root cause:* Hidden downstream latency behind healthy 200 HTTP responses. *Outcome:* Latency resolved. `Status: resolved`
 
----
+<br>
 
-### 🚀 Public Repositories
+## Architecture Case Studies & Systems
 
-- 🌐 **[bharatprajapat-eng.github.io](https://github.com/bharatprajapat-eng/bharatprajapat-eng.github.io)** — Source code for my personal portfolio website, architecture showcase, and interactive developer console.
+| Architecture Case Study | Platform &amp; Scope | What was engineered |
+|:---|:---|:---|
+| [**Universal CI/CD at Enterprise Scale**](https://bharatprajapat-eng.github.io/case-studies.html#case-1) | Pearl Technology · 500+ Services | Parameterized universal pipelines + AI support agent raising GitHub PRs |
+| [**Azure-to-GCP Enterprise Modernization**](https://bharatprajapat-eng.github.io/case-studies.html#case-2) | Azure &rarr; GCP · AKS &rarr; GKE | GKE Workload Identity Federation + AlloyDB continuous replication via DMS |
+| [**Cloudflare Edge Ingestion Buffer**](https://bharatprajapat-eng.github.io/case-studies.html#case-3) | Mandatly · Privacy SaaS | Sub-millisecond edge capture buffering millions of events into Kubernetes |
+| [**Commerce Monolith Decomposition**](https://bharatprajapat-eng.github.io/case-studies.html#case-4) | The Global Logica · E-Commerce | Monolith to Kubernetes microservices (Cart, Orders, Invoicing) + Elasticsearch |
+| [**500+ Ingress to Gateway API**](https://bharatprajapat-eng.github.io/case-studies.html#case-5) | Enterprise Routing Modernization | AI-assisted manifest classification &amp; candidate HTTPRoute resource generation |
+| [**Distributed Tracing &amp; Latency Isolation**](https://bharatprajapat-eng.github.io/case-studies.html#case-6) | TeraCar · Kubernetes SRE | OpenTelemetry Operator + Jaeger tracing identifying downstream bottlenecks |
 
----
+<br>
 
-### 📬 Connect With Me
+## Stack in Production
 
-- 🌐 **Portfolio Hub:** [https://bharatprajapat-eng.github.io/](https://bharatprajapat-eng.github.io/)
-- 📧 **Direct Email:** [bharat.p2311@gmail.com](mailto:bharat.p2311@gmail.com)
-- 📍 **Location:** India
+<p align="left">
+<img src="https://skillicons.dev/icons?i=azure,gcp,aws,kubernetes,docker,terraform,githubactions,linux,bash,python,nginx,postgres,mongodb,kafka,cloudflare,angular,ts,git" alt="Production Tech Stack" />
+</p>
 
----
+<br>
+
+## Uptime & Engineering Metrics
+
+<p align="center">
+<img src="https://img.shields.io/badge/9%2B-Years_Evolution-0a0d12?style=for-the-badge&labelColor=22C55E" alt="9+ Years Experience" />
+<img src="https://img.shields.io/badge/500%2B-Services_CI%2FCD_Scope-0a0d12?style=for-the-badge&labelColor=22C55E" alt="500+ Services Scope" />
+<img src="https://img.shields.io/badge/Multi--Cloud-Azure_·_GCP_·_AWS-0a0d12?style=for-the-badge&labelColor=22C55E" alt="Multi-Cloud" />
+<img src="https://img.shields.io/badge/GitOps-Argo_CD_·_Helm-0a0d12?style=for-the-badge&labelColor=22C55E" alt="GitOps" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=bharatprajapat-eng&hide_border=true&background=0a0d12&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideNums=e5e9ef&currStreakNum=e5e9ef&sideLabels=e5e9ef&dates=8b98a8&border=22C55E" alt="GitHub Streak Stats" />
+</p>
+
+<br>
+
 <div align="center">
-  <sub>© Bharat Prajapat · Designed with precision</sub>
+
+**Last deployed:** continuous · **Open incidents:** 0 · **Systems:** operational
+
+*Open to Multi-Cloud Architecture Consulting, Platform Engineering &amp; AI-DevOps Leadership.*
+
+<a href="mailto:bharat.p2311@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-22C55E?style=for-the-badge&logoColor=white" alt="Let's Talk" /></a>
+
 </div>
