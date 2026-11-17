@@ -53,7 +53,7 @@ Detailed case studies with real architectural problems, strategies, and outcomes
 5. **AI-Assisted 500+ NGINX Ingress to Kubernetes Gateway API** — Automated parsing and candidate HTTPRoute manifest generation with semantic linting.
 6. **Distributed Tracing & SRE Root-Cause Isolation** — OpenTelemetry Operator and Jaeger traces isolating downstream microservice query latency.
 
-👉 *Read the complete deep dives at [https://bharatprajapat-eng.github.io/#case-studies](https://bharatprajapat-eng.github.io/#case-studies)*
+👉 *Read the complete deep dives at [https://bharatprajapat-eng.github.io/case-studies.html](https://bharatprajapat-eng.github.io/case-studies.html)*
 
 ---
 
