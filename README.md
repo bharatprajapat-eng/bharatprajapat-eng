@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-er--prajapat.github.io-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://er-prajapat.github.io/)
+[![Website](https://img.shields.io/badge/Website-bharatprajapat--eng.github.io-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bharatprajapat-eng.github.io/)
 [![Email](https://img.shields.io/badge/Email-bharat.p2311%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharat.p2311@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-er--prajapat-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/er-prajapat)
-[![Location](https://img.shields.io/badge/Location-Surat%2C%20India%20%2F%20Remote-10b981?style=for-the-badge&logo=google-maps&logoColor=white)](https://er-prajapat.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-bharatprajapat--eng-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharatprajapat-eng)
+[![Location](https://img.shields.io/badge/Location-Surat%2C%20India%20%2F%20Remote-10b981?style=for-the-badge&logo=google-maps&logoColor=white)](https://bharatprajapat-eng.github.io/)
 
 **Cloud, DevOps & Platform Engineer • Solution Architect • AI-Assisted Infrastructure Automation**  
 *Former Full-Stack Developer • 9+ Years of Hands-on Engineering Evolution*
@@ -23,7 +23,7 @@ My strongest capability is **understanding a business or engineering problem end
 - 🔭 **Current Focus:** Enterprise platform modernization across Microsoft Azure and Google Cloud (GKE, AlloyDB, Workload Identity), Universal CI/CD (500+ services), GitOps with Argo CD & Helm, and AI-driven DevOps automation.
 - 🏗️ **Architecture Philosophy:** Make the product work reliably, make the engineering process repeatable, and control operating costs as the system scales.
 - 🤖 **AI with Guardrails:** Building specialized AI agent workflows (Zendesk &rarr; Augment Cosmos &rarr; GitHub PRs &rarr; Slack approvals) with deterministic checks and human-in-the-loop validation.
-- 🌐 **Portfolio & Case Studies:** Check out my deep-dive architecture case studies and live interactive console at **[er-prajapat.github.io](https://er-prajapat.github.io/)**.
+- 🌐 **Portfolio & Case Studies:** Check out my deep-dive architecture case studies and live interactive console at **[bharatprajapat-eng.github.io](https://bharatprajapat-eng.github.io/)**.
 
 ---
 
@@ -44,12 +44,12 @@ My strongest capability is **understanding a business or engineering problem end
 
 ### 🚀 Featured Repositories
 
-- 🤖 **[ai-labs](https://github.com/er-prajapat/ai-labs)** — Custom developer guidelines and automated skills designed for AI coding agents. Features the **AI-Augmented Trunk-Flow** branching model and multi-agent cross-platform installers.
-- 🧠 **[AI-models](https://github.com/er-prajapat/AI-models)** — PyTorch deep learning text generation pipeline containerized with Docker, REST API inference server, and interactive web UI.
-- ⚡ **[bytechef](https://github.com/er-prajapat/bytechef)** — Open-source, low-code, extendable API integration and workflow automation platform.
-- ☁️ **[tf-test](https://github.com/er-prajapat/tf-test)** — Declarative Terraform Infrastructure as Code modules, remote state management, and cloud automation test harness.
-- 📐 **[angular-formio](https://github.com/er-prajapat/angular-formio)** — Dynamic JSON-powered form generator and validation engine for Angular applications.
-- 🌐 **[er-prajapat.github.io](https://github.com/er-prajapat/er-prajapat.github.io)** — Source code for my personal portfolio website, architecture hub, and interactive developer CLI.
+- 🤖 **[ai-labs](https://github.com/bharatprajapat-eng/ai-labs)** — Custom developer guidelines and automated skills designed for AI coding agents. Features the **AI-Augmented Trunk-Flow** branching model and multi-agent cross-platform installers.
+- 🧠 **[AI-models](https://github.com/bharatprajapat-eng/AI-models)** — PyTorch deep learning text generation pipeline containerized with Docker, REST API inference server, and interactive web UI.
+- ⚡ **[bytechef](https://github.com/bharatprajapat-eng/bytechef)** — Open-source, low-code, extendable API integration and workflow automation platform.
+- ☁️ **[tf-test](https://github.com/bharatprajapat-eng/tf-test)** — Declarative Terraform Infrastructure as Code modules, remote state management, and cloud automation test harness.
+- 📐 **[angular-formio](https://github.com/bharatprajapat-eng/angular-formio)** — Dynamic JSON-powered form generator and validation engine for Angular applications.
+- 🌐 **[bharatprajapat-eng.github.io](https://github.com/bharatprajapat-eng/bharatprajapat-eng.github.io)** — Source code for my personal portfolio website, architecture hub, and interactive developer CLI.
 
 ---
 
@@ -64,13 +64,13 @@ Detailed case studies with real architectural problems, strategies, and outcomes
 5. **AI-Assisted 500+ NGINX Ingress to Kubernetes Gateway API** — Automated parsing and candidate HTTPRoute manifest generation with semantic linting.
 6. **Distributed Tracing & SRE Root-Cause Isolation** — OpenTelemetry Operator and Jaeger traces isolating downstream microservice query latency.
 
-👉 *Read the complete deep dives at [https://er-prajapat.github.io/#case-studies](https://er-prajapat.github.io/#case-studies)*
+👉 *Read the complete deep dives at [https://bharatprajapat-eng.github.io/#case-studies](https://bharatprajapat-eng.github.io/#case-studies)*
 
 ---
 
 ### 📬 Connect With Me
 
-- 🌐 **Portfolio Hub:** [https://er-prajapat.github.io/](https://er-prajapat.github.io/)
+- 🌐 **Portfolio Hub:** [https://bharatprajapat-eng.github.io/](https://bharatprajapat-eng.github.io/)
 - 📧 **Direct Email:** [bharat.p2311@gmail.com](mailto:bharat.p2311@gmail.com)
 - 📍 **Location:** Surat, Gujarat, India (Open to Remote & Global Engineering Opportunities)
 
