@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-bharatprajapat--eng.github.io-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bharatprajapat-eng.github.io/)
 [![Email](https://img.shields.io/badge/Email-bharat.p2311%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharat.p2311@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-bharatprajapat--eng-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharatprajapat-eng)
-[![Location](https://img.shields.io/badge/Location-Surat%2C%20India%20%2F%20Remote-10b981?style=for-the-badge&logo=google-maps&logoColor=white)](https://bharatprajapat-eng.github.io/)
+[![Location](https://img.shields.io/badge/Location-India-10b981?style=for-the-badge&logo=google-maps&logoColor=white)](https://bharatprajapat-eng.github.io/)
 
 **Cloud, DevOps & Platform Engineer • Solution Architect • AI-Assisted Infrastructure Automation**  
 *Former Full-Stack Developer • 9+ Years of Hands-on Engineering Evolution*
@@ -67,7 +67,7 @@ Detailed case studies with real architectural problems, strategies, and outcomes
 
 - 🌐 **Portfolio Hub:** [https://bharatprajapat-eng.github.io/](https://bharatprajapat-eng.github.io/)
 - 📧 **Direct Email:** [bharat.p2311@gmail.com](mailto:bharat.p2311@gmail.com)
-- 📍 **Location:** Surat, Gujarat, India (Open to Remote & Global Engineering Opportunities)
+- 📍 **Location:** India
 
 ---
 <div align="center">
