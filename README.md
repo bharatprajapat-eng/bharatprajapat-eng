@@ -98,20 +98,6 @@ Deployed OpenTelemetry Operator and Jaeger distributed tracing on Kubernetes; co
 <img src="https://skillicons.dev/icons?i=azure,gcp,aws,kubernetes,docker,terraform,githubactions,linux,bash,python,nginx,postgres,mongodb,kafka,cloudflare,angular,ts,git" alt="Production Tech Stack" />
 </p>
 
-<br>
-
-## Uptime & Engineering Metrics
-
-<p align="center">
-<img src="https://img.shields.io/badge/9%2B-Years_Evolution-0a0d12?style=for-the-badge&labelColor=22C55E" alt="9+ Years Experience" />
-<img src="https://img.shields.io/badge/500%2B-Services_CI%2FCD_Scope-0a0d12?style=for-the-badge&labelColor=22C55E" alt="500+ Services Scope" />
-<img src="https://img.shields.io/badge/Multi--Cloud-Azure_·_GCP_·_AWS-0a0d12?style=for-the-badge&labelColor=22C55E" alt="Multi-Cloud" />
-<img src="https://img.shields.io/badge/GitOps-Argo_CD_·_Helm-0a0d12?style=for-the-badge&labelColor=22C55E" alt="GitOps" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=bharatprajapat-eng&hide_border=true&background=0a0d12&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideNums=e5e9ef&currStreakNum=e5e9ef&sideLabels=e5e9ef&dates=8b98a8&border=22C55E" alt="GitHub Streak Stats" />
-</p>
 
 <br>
 
